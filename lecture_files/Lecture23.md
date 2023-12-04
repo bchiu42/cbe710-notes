@@ -168,7 +168,7 @@ phase envelope
 ![image](figs/fig_23-4-01.png)
 
 As the temperature increases, the vapor pressure also increases (we will
-discuss the reason in [problem set 6](../problems/ps_6/problem_set_6).
+discuss the reason in [problem set 6](../problems/ps_6/problem_set_6)).
 The molar volumes corresponding to
 the phases will also begin to approach each other - increasing the
 pressure will tend to condense the vapor phase, which is compressible,
@@ -289,7 +289,7 @@ expansion is typically truncated at either second or third order since
 interactions between multiple gas molecules are unlikely. Virial
 coefficients (which can be predicted from statistical mechanics) are
 negative if interactions are attractive and positive if interactions are
-positive.
+repulsive.
 
 The compressibility factor is our first example of a parameter that
 captures the extent to which a system deviates from ideal behavior; in
@@ -335,7 +335,7 @@ out the variations in $B$ as:
 
 $$\begin{aligned}
 \Delta B &= B_2(T_2, P_2) - B_1(T_1, P_1) \\
-&= [B(T_2, P_2)] - B(T_2, 0)+ [B(T_2, 0) - B(T_1, 0)] + [B(T_1, 0)] - B(T_1, P_1)]
+&= [B(T_2, P_2) - B(T_2, 0)]+ [B(T_2, 0) - B(T_1, 0)] + [B(T_1, 0) - B(T_1, P_1)]
 \end{aligned}$$
 
 The advantage of this approach is again that temperature variations in
